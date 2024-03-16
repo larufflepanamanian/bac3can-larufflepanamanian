@@ -1,6 +1,6 @@
 {
   "name": "bac3can-larufflepanamanian",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "description": "larufflepanamanian",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "cacl"
   ],
   "author": "larufflepanamanian",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/larufflepanamanian/bac3can-larufflepanamanian/issues"
   },
